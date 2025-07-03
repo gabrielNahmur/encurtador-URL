@@ -25,7 +25,7 @@
 
 Este projeto nasceu da curiosidade em aplicar os conceitos teóricos de **Estrutura de Dados**, aprendidos durante a faculdade, em um projeto de back-end prático para conseguir entender como aplicar esses conceitos e me preparar para o mercado de trabalho. Após estudar algumas estruturas, a **Tabela Hash (Hash Table)** me pareceu bem interessante por sua eficiência em operações de busca.
 
-A partir daí, pesquisei projetos que poderiam se adaptam bem a dessa estrutura e cheguei à ideia de um **Encurtador de URLs**. Este tipo de funcionalidade depende de uma associação rápida e direta entre um código curto (chave) e uma URL longa (valor), o que lembra muito um caso de uso para uma Tabela Hash.
+A partir daí, pesquisei projetos que poderiam se adaptar bem a dessa estrutura e cheguei à ideia de um **Encurtador de URLs**. Este tipo de funcionalidade depende de uma associação rápida e direta entre um código curto (chave) e uma URL longa (valor), o que lembra muito um caso de uso para uma Tabela Hash.
 
 A aplicação consiste em uma API RESTful desenvolvida em Java com Spring Boot que permite encurtar URLs longas e redirecionar usuários a partir das URLs encurtadas.
 
